@@ -1,4 +1,4 @@
 pandas==1.0.3
 sklearn==0.0
-tensorflow==2.1.0
+tensorflow==2.1.2
 keras-tuner==1.0.1
